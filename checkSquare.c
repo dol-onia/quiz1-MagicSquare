@@ -46,11 +46,7 @@ int isLoShuMagicSquare(int square[3][3]) {
 
     return 1;
 }
-
-#include <stdio.h>
-
-int isLoShuMagicSquare(int square[3][3]);
-
+/*
 void testSquare(int square[3][3], const char *label) {
     printf("%s:\n", label);
     for (int i = 0; i < 3; i++) {
@@ -96,4 +92,4 @@ int main() {
 
     return 0;
 }
-
+*/
